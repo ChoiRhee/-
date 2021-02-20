@@ -1,5 +1,5 @@
-# 20_summer 
-### 쿠글 스터디 - 파이썬 머신러닝 완벽 가이드
+# python_machine_learning_perfect_guide
+### 20년 여름 쿠글 스터디 - 파이썬 머신러닝 완벽 가이드
 
 <br><br>
 __1장__  넘파이, 판다스<br>
